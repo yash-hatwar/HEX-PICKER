@@ -1,0 +1,4 @@
+Color picker 
+:- It is a chrome extension used to pick color from any website. It selects the color and returns its hexcode. 
+1. It will show hex code of the selected color
+2. The code will be auto copied on the clipboard.
